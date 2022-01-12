@@ -1,0 +1,5 @@
+export const SET_ACCOUNT = "SET_ACCOUNT";
+export const SET_BALANCE = "SET_BALANCE";
+export const SET_TRANSACTION_IN_PROGRESS = "SET_TRANSACTION_IN_PROGRESS";
+export const SET_ROPSTEN = "SET_ROPSTEN";
+export const SET_ERROR = "SET_ERROR";
